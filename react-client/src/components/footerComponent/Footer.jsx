@@ -5,7 +5,7 @@ class Footer extends Component {
     return (
       <footer>
         <div>
-          insert icons to media here.
+          insert icons to media here. ( github / linkedin / email)
         </div>
       </footer>
     )
