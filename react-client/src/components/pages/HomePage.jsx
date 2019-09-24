@@ -16,7 +16,7 @@ class HomePage extends Component {
           </p>
           <p className="text">
             My passions, other than deveopment/engineering, include the martial art of Brazilian Jiu Jitsu, healthcare/wellness,
-            and automotive technology.
+            and automotive technology. I strive to be community and people centric.
           </p>
       </div>
     )
